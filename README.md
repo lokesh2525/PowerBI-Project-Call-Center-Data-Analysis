@@ -1,7 +1,7 @@
 # PowerBI-Projects
 In terms of PowerBI, I want to learn how to make interactive dashboards that are visually appealing and help me rapidly and effectively extract insights from large, complex datasets.
 
-#Project Name:Call Centre Trends
+# Project Name:Call Centre Trends
 
 Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
